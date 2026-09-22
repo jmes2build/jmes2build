@@ -25,17 +25,6 @@ I'm less interested in collecting languages than in getting good at a few. Right
 
 I'm early in my journey and actively looking for projects to contribute to — especially anything touching AI tooling, developer experience, or quantitative finance. If you maintain something and have a good first issue going unclaimed, I'd genuinely like to hear about it.
 
-<!-- ─────────────────────────────────────────────────────────────
-     FILL IN OR DELETE: I left these blank rather than guess.
-     Delete any line you don't want public.
-     ───────────────────────────────────────────────────────────── -->
-
-### 📫 Reach me
-
-- **Email:** <!-- your@email.com -->
-- **LinkedIn:** <!-- https://linkedin.com/in/... -->
-- **Portfolio:** <!-- https://... -->
-
 ---
 
 <div align="center">
