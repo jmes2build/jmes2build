@@ -39,13 +39,5 @@ I'm early in my journey and actively looking for projects to contribute to — e
 ---
 
 <div align="center">
-
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmes2build&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmes2build&layout=compact&hide_border=true)
-
-</div>
-
-<div align="center">
 <sub>Thanks for stopping by ✨</sub>
 </div>
