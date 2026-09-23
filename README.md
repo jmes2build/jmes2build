@@ -1,6 +1,6 @@
 ## Hi, I'm James 👋
 
-CS student in San Jose, building things at the intersection of **software, AI, and finance**.
+CS student, building things at the intersection of **software, AI, and finance**.
 
 I like problems where the interesting part isn't writing the code — it's figuring out what the code should actually do. Lately that's meant reading a lot of other people's codebases.
 
