@@ -23,7 +23,7 @@ I'm less interested in collecting languages than in getting good at a few. Right
 
 ### 🤝 Open to collaboration
 
-I'm early in my journey and actively looking for projects to contribute to — especially anything touching AI tooling, developer experience, or quantitative finance. If you maintain something and have a good first issue going unclaimed, I'd genuinely like to hear about it.
+I'm early in my journey and actively looking for projects to contribute to, especially anything touching AI tooling, developer experience, or quantitative finance. If you maintain something and have a good first issue going unclaimed, I'd genuinely like to hear about it.
 
 ---
 
